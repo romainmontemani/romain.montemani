@@ -24,6 +24,7 @@ Mon objectif :
 ## 💼 Expériences clés dans le monde du sport 
 
 - **Comité Départemental de Tennis du Var**
+
 Développement sportif, partenariats, événements
 Analyse de données : licenciés, clubs, participation, engagement
 Planification d'événemments
