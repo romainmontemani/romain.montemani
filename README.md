@@ -9,7 +9,7 @@ Je suis actuellement **en reconversion vers la Data Analyse appliquée au sport*
 ## 🧠 Qui suis-je ?
 
 🎓 Diplômé en **Sport Business**  
-📍 Basé en France  
+📍 Basé en France à Toulon
 🎯 Je combine :
 - **Compréhension du monde sportif**
 - **Analyse de données**
@@ -21,16 +21,21 @@ Mon objectif :
 
 ---
 
-## 💼 Expériences clés
+## 💼 Expériences clés dans le monde du sport
 
-- **:contentReference[oaicite:0]{index=0}**  
-  Mise en place de **rapports de suivi**, analyse d’engagement et compréhension des dynamiques associatives.
+- **Comité Départemental de Tennis du Var** / **Masters 1000 Monte-Carlo**  /  **Open 13**
+Développement sportif, partenariats, événements
+Analyse de données : licenciés, clubs, participation, engagement
+Planification d'événemments
+Gestions d'invitations   
 
-- **:contentReference[oaicite:1]{index=1}**  
+- **Toulon Métropole Var Handball**  
   Analyse de marché, construction d’indicateurs, suivi de campagnes et reporting.
+  Logistique et installation pour les matchs de D1
+  Stratégie billetterie
 
-- **:contentReference[oaicite:2]{index=2}**  
-  Expérience opérationnelle sur le **CRM, les ventes et l’interprétation de données clients**.
+- **Provence Rugby**  
+  Expérience opérationnelle pour l'organisation d'un match de Pro D2
 
 ---
 
@@ -70,10 +75,11 @@ _Aperçu : analyses décisionnelles, scénarios data et storytelling._
 ## 🛠️ Compétences
 
 ### 📊 Data
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- Introduction à **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - Nettoyage & exploration de données  
 - Construction & interprétation de KPI  
 - Introduction à **Power BI / dashboards**
+- Introduction aux notions **SQL**
 
 ### 🧠 Sport & Business
 - Marketing & sponsoring  
@@ -83,15 +89,15 @@ _Aperçu : analyses décisionnelles, scénarios data et storytelling._
 
 ### 🛠️ Outils
 - Git & GitHub  
-- Excel & Google Sheets  
-- Notions SQL (en apprentissage)
-- Power BI (en apprentissage)
-
+- Excel & ensemble du Pack Office
+- Canva
+- IMovie
+  
 ---
 
 ## 📫 Me contacter
 
-📩 **Email :** tonmail@email.com  
-🔗 **LinkedIn :** https://www.linkedin.com/in/tonprofil  
+📩  [**Email](romain.montemani@gmail.com)  
+🔗 [**LinkedIn](https://www.linkedin.com/in/romain-montemani/)  
 📍 **France,Toulon**
 
