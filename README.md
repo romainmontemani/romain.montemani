@@ -90,7 +90,7 @@ Expérience opérationnelle pour l'organisation d'un match de Pro D2
 
 ## 📫 Me contacter
 
-📩  [Email](romain.montemani@gmail.com)  
+📩 [Email] (romain.montemani@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/romain-montemani/) 
 
 📍 **France,Toulon**
