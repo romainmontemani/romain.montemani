@@ -23,12 +23,14 @@ Mon objectif :
 
 ## 💼 Expériences clés dans le monde du sport 
 
-- **Comité Départemental de Tennis du Var** / **Masters 1000 Monte-Carlo**  /  **Open 13**
-
+- **Comité Départemental de Tennis du Var**
+- **Masters 1000 Monte-Carlo**
+- **Open 13**
 Développement sportif, partenariats, événements
 Analyse de données : licenciés, clubs, participation, engagement
 Planification d'événemments
-Gestions d'invitations   
+Gestions d'invitations
+![image alt](https://github.com/romainmontemani/Romain.montemani/blob/75e73405f4072f6324a05610e88b276fcd17aa44/Z_Z8_3dAxsiBwfSf_8fd3d2_cb3262b01e8d47eb945e1ca650fc91b4~mv2.png.avif)
 
 - **Toulon Métropole Var Handball**
    
