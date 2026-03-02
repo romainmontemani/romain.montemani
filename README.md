@@ -8,7 +8,7 @@ Je suis actuellement **en reconversion vers la Data Analyse appliquée au sport*
 
 ## 🧠 Qui suis-je ?
 
-🎓 Diplômé en **Sport Business**  
+🎓 Diplômé d'un **Bachelor Sport Business** à l'ESG Sport d'Aix-en-Provence 
 📍 Basé en France à Toulon
 🎯 Je combine :
 - **Compréhension du monde sportif**
@@ -21,7 +21,7 @@ Mon objectif :
 
 ---
 
-## 💼 Expériences clés dans le monde du sport
+## 💼 Expériences clés dans le monde du sport 
 
 - **Comité Départemental de Tennis du Var** / **Masters 1000 Monte-Carlo**  /  **Open 13**
 Développement sportif, partenariats, événements
@@ -39,36 +39,26 @@ Gestions d'invitations
 
 ---
 
-## 📊 Projets Data Sport
+## 📊 Projets Data Sport en cours
 
 ### 🏃‍♂️ **Analyse de performance sportive**
 🔍 Analyse détaillée des performances individuelles et collectives  
-📌 Python, Pandas, KPI, visualisation  
-➡️ https://github.com/tonpseudo/analyse-performance-sportive  
-_Aperçu : exploration des données athlétiques, création de métriques de performance et insights comparatifs._
 
 ---
 
 ### 📣 **Analyse de l’engagement des fans**
 🔍 Compréhension des comportements fans  
-📌 Python, Data cleaning, visualisation  
-➡️ https://github.com/tonpseudo/analyse-engagement-fans  
-_Aperçu : segmentation des supporters, modèles d’engagement, dashboards basiques._
+
 
 ---
 
 ### 📈 **Data & business sportif**
 🔍 Décisions commerciales basées sur la donnée  
-📌 Python, KPI business, rapports  
-➡️ https://github.com/tonpseudo/data-sport-business  
-_Aperçu : indicateurs marketing, performance sponsoring et recommandations stratégiques._
 
 ---
 
 ### 📚 **Études de cas Data – Stratégie & sport**
-📌 Cas concrets — du problème à l’insight  
-➡️ https://github.com/tonpseudo/etudes-de-cas-data-sport  
-_Aperçu : analyses décisionnelles, scénarios data et storytelling._
+
 
 ---
 
